@@ -1,0 +1,23 @@
+{
+  "name": "ikaros",
+  "version": "1.0",
+  "description": "Ikaros Discord Bot",
+  "main": "ikaros.js",
+  "scripts": {
+    "test": "ik.ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pyra1/ikaros.git"
+  },
+  "author": "Pyra_",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Pyra1/ikaros/issues"
+  },
+  "homepage": "https://github.com/Pyra1/ikaros#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "random-puppy": "^1.1.0"
+  }
+}
